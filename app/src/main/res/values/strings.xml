@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Modul 5</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="judul_aplikasi_login">Login Aplikasi</string>
+    <string name="error_invalid_password">Password Salah</string>
+    <string name="error_field_required">Kolom Teks Wajib Diisi</string>
+    <string name="error_invalid_email">Email Tidak Terdaftar</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="judul_login">Login Aplikasi</string>
+    <string name="register_button">SIGN UP</string>
+    <string name="close">CLOSE</string>
+</resources>
